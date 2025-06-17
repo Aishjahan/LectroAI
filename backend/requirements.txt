@@ -1,0 +1,11 @@
+flask
+flask-cors
+transformers
+torch
+sentencepiece
+gTTS
+easyocr
+pdf2image
+Pillow
+accelerate 
+optimum
